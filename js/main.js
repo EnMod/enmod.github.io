@@ -6,7 +6,7 @@
       dots: true,
       slidesToShow: 1
     });
-    $('.slick-frontends').slick-lightbox({
+    $('.slick-frontends').slickLightbox({
       itemSelector: '.item .img img',
       src: 'src',
       caption: 'caption'
